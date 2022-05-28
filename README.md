@@ -1,8 +1,8 @@
 # challenge-git
 Ini adalah tantangan pertama dalam menggunakan Git dan Github
 
-Melakukan forking terhadap repositori ini
-Membuat clone hasil forking ke dalam pc yang dimiliki
+1. Melakukan forking terhadap repositori ini
+2. Membuat clone hasil forking ke dalam pc yang dimiliki
 Membuat sebuah branch baru dengan nama dev
 Membuat sebuah file dengan nama index.js yang berfungsi untuk
 Menampilkan tulisan halo, namaku adalah xxx, di mana xxx merupakan nama kalian
